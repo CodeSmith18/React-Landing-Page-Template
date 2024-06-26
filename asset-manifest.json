@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-Landing-Page-Template/static/css/main.ae42ac5f.css",
+    "main.js": "/React-Landing-Page-Template/static/js/main.ec06dd6f.js",
+    "index.html": "/React-Landing-Page-Template/index.html",
+    "main.ae42ac5f.css.map": "/React-Landing-Page-Template/static/css/main.ae42ac5f.css.map",
+    "main.ec06dd6f.js.map": "/React-Landing-Page-Template/static/js/main.ec06dd6f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae42ac5f.css",
+    "static/js/main.ec06dd6f.js"
+  ]
+}
